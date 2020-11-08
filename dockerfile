@@ -1,2 +1,2 @@
-FROM Tomcat
+FROM tomcat
 COPY shoppingcart.war /usr/local/tomcat/webapps
